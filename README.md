@@ -27,7 +27,7 @@ I'm a **B.Tech student** in **Artificial Intelligence and Data Science**, passio
 
 ### 📫 How to reach me
 - **GitHub**: [@S-vibin](https://github.com/S-vibin)
-- **Location**: [Your Country/City]
+- **Location**: [india/coimbatore]
 
 ### ⚡ Fun Facts
 - Passionate about AI and beautiful design
