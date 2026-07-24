@@ -1,6 +1,6 @@
 # Welcome to Benjamin's Github
 
-![Banner Image](./assets/banner.jpg)
+![Banner Image](./assets/banner.png)
 
 ## About me
 
@@ -24,29 +24,17 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 ## 📊 Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=buefy&bg_color=ffffff&text_color=000000&icon_color=000000)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=buefy&bg_color=ffffff&text_color=000000&icon_color=000000)](https://github.com/S-vibin)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=buefy&bg_color=ffffff&text_color=000000)](https://github.com/S-vibin)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=buefy&bg_color=ffffff&text_color=000000)
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=black-ice)](https://github.com/S-vibin)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=black-ice)
 
 ## 📈 Activity Overview
 
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=github-light)](https://github.com/S-vibin)
-
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=github-light)
 
 ## 🔭 What I'm currently doing
 
@@ -92,8 +80,4 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 ---
 
-<div align="center">
-
 *Let's connect and build something amazing together! Feel free to explore my projects and reach out.* 🚀
-
-</div>
