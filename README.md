@@ -26,9 +26,9 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&count_private=true)](https://github.com/S-vibin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=buefy&bg_color=ffffff&text_color=000000&icon_color=000000)](https://github.com/S-vibin)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=dark)](https://github.com/S-vibin)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=buefy&bg_color=ffffff&text_color=000000)](https://github.com/S-vibin)
 
 </div>
 
@@ -36,7 +36,7 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark)](https://github.com/S-vibin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=black-ice)](https://github.com/S-vibin)
 
 </div>
 
@@ -44,7 +44,7 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=dark&bg_color=0D1117)](https://github.com/S-vibin)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=github-light)](https://github.com/S-vibin)
 
 </div>
 
