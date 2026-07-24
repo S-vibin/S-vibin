@@ -1,4 +1,4 @@
-# Welcome to Benjamin's Github
+# Welcome to Vibin's Github
 
 ![Banner Image](![Uploading Could we ever decipher an alien language_ Uncovering how AI communicates may be the key.jpeg…]()
 ./assets/banner.png)
