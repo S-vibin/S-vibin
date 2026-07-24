@@ -1,6 +1,6 @@
 # Welcome to Vibin's Github
 
-![Banner Image](![Uploading Could we ever decipher an alien language_ Uncovering how AI communicates may be the key.jpeg…]())
+![Banner Image](C:\Users\VIBIN\Downloads\Could we ever decipher an alien language_ Uncovering how AI communicates may be the key.jpeg)
 
 ## About me
 
