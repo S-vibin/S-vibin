@@ -32,6 +32,30 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 </div>
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=dark)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S-vibin&theme=dark)
+
+</div>
+
 ## 🔭 What I'm currently doing
 
 - Pursuing **B.Tech in Artificial Intelligence and Data Science**
