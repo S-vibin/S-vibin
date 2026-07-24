@@ -1,7 +1,7 @@
 
 # Welcome to Vibin's Github
 
-![Banner Image](<img width="736" height="368" alt="Could we ever decipher an alien language_ Uncovering how AI communicates may be the key" src="https://github.com/user-attachments/assets/c86f92fc-4472-4883-aad0-670cd3b2b021" />)
+![Banner Image](![Uploading Could we ever decipher an alien language_ Uncovering how AI communicates may be the key.jpeg…]().github/images/banner.jpg )
 
 ## About me
 
