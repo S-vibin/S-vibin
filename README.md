@@ -26,9 +26,9 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&count_private=true)](https://github.com/S-vibin)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-vibin&layout=compact&theme=dark)](https://github.com/S-vibin)
 
 </div>
 
@@ -36,23 +36,15 @@ Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Scienc
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark)](https://github.com/S-vibin)
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity Overview
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=dark)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S-vibin&theme=dark)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&theme=dark&bg_color=0D1117)](https://github.com/S-vibin)
 
 </div>
 
