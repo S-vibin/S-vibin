@@ -1,11 +1,10 @@
-
 # Welcome to Vibin's Github
 
-![Banner Image](![Uploading Could we ever decipher an alien language_ Uncovering how AI communicates may be the key.jpeg…]().github/images/banner.jpg )
+![Banner Image](https://i.pinimg.com/736x/40/3b/f6/403bf6ff70ac0f2bfd5ea8c433174fa5.jpg)
 
 ## About me
 
-Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Science**, passionate about building intelligent solutions and creating beautiful user experiences. I'm focused on exploring cutting-edge technologies and problem-solving at a fundamental level. I am working on diverse domains with a commitment to delivery. View my work to see how I'm creating innovative solutions! 🚀
+Hello there! I'm **B.Tech student** in **Artificial Intelligence and Data Science**, passionate about building intelligent solutions and creating beautiful user experiences. I'm focused on explorin...
 
 ## 🎓 Education
 
