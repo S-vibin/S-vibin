@@ -4,7 +4,7 @@
 
 ## About me
 
-Hello there! I'm a**B.Tech student** in **Artificial Intelligence and Data Science**, passionate about building intelligent solutions and creating beautiful user experiences. I'm focused on exploring...
+Hello there! I'm a **B.Tech student** in **Artificial Intelligence and Data Science**, passionate about building intelligent solutions and creating beautiful user experiences. I'm focused on exploring...
 
 ## 🎓 Education
 
