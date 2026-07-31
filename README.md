@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vibins-vibs10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/S-vibin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -34,9 +34,9 @@
         <li>♟️ Chess enthusiast & Competitive programmer</li>
       </ul>
     </td>
-    <!-- Right Column: Animated GIF -->
+    <!-- Right Column: Profile Avatar -->
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
-      <img src="PASTE_YOUR_DIRECT_PINTEREST_IMAGE_LINK_HERE" alt="Profile Animation" width="220" />
+      <img src="https://avatars.githubusercontent.com/u/207681533?v=4" alt="Profile" width="220" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -77,11 +77,17 @@
   <br />
   
   <!-- GitHub Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=000000&color=ffffff&type=svg&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark&background=000000&color=ffffff&type=svg&hide_border=true" height="175" alt="GitHub Streak" />
   
   <br /><br />
 
   <!-- Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
+<br />
+
+---
+
+<p align="center">If you'd like changes (different avatar, custom badges, or a GitHub Pages site), tell me what to add and I will create a branch and push the updates.</p>
