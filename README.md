@@ -1,6 +1,6 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Welcome Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/9b/ba/81/9bba81ee6ec2336665609145c84a4ce1.jpg" alt="Welcome Banner" width="100%" />
 </div>
 
 <br />
