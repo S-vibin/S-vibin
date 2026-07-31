@@ -36,7 +36,7 @@
     </td>
     <!-- Right Column: Profile Avatar -->
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://avatars.githubusercontent.com/u/207681533?v=4" alt="Profile" width="220" style="border-radius: 8px;" />
+      <img src="[https://avatars.githubusercontent.com/u/207681533?v=4](https://i.pinimg.com/736x/e9/5f/75/e95f75b970615f214a713f24239868e2.jpg)" alt="Profile" width="220" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
