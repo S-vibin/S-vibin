@@ -1,6 +1,6 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/9b/ba/81/9bba81ee6ec2336665609145c84a4ce1.jpg" alt="Welcome Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" alt="Welcome Banner" width="100%" />
 </div>
 
 <br />
@@ -29,14 +29,16 @@
         Hello there! I'm <b>Vibin</b>. I enjoy learning new technologies, building clean software projects, and solving complex problems.
       </p>
       <ul>
-        <li>🎓 Studying Computer Science / Systems Engineering</li>
-        <li>💻 Working with JavaScript, React, Python, and C++</li>
-        <li>♟️ Chess enthusiast & Competitive programmer</li>
+       <li>🎓 B.Tech in <b>Artificial Intelligence & Data Science</b> (Class of 2027)</li>
+        <li>💼 Software Developer Intern experienced in <b>Full-Stack (Next.js)</b> & <b>SaaS ERP Dashboards</b></li>
+        <li>🤖 Working on <b>Machine Learning, Deep Learning (CNNs), & Customer Churn Prediction</b></li>
+        <li>⚡ Core Stack: <b>Python, Next.js, Django, SQL, TensorFlow, Scikit-Learn</b></li>
+        <li>🌱 Passionate about: <b>Data Analytics, Model Optimization & Continuous Learning</b></li>
       </ul>
     </td>
     <!-- Right Column: Profile Avatar -->
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://i.pinimg.com/736x/e9/5f/75/e95f75b970615f214a713f24239868e2.jpg" alt="Profile" width="220" style="border-radius: 8px;" />
+      <img src="https://i.pinimg.com/736x/d8/4e/4f/d84e4f54e7f857177ffaa634e717de0e.jpg" alt="Profile" width="220" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -90,4 +92,4 @@
 
 ---
 
-<p align="center">If you'd like changes (different avatar, custom badges, or a GitHub Pages site), tell me what to add and I will create a branch and push the updates.</p>
+
