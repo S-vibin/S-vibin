@@ -29,7 +29,7 @@
         Hello there! I'm <b>Vibin</b>. I enjoy learning new technologies, building clean software projects, and solving complex problems.
       </p>
       <ul>
-       <li>🎓 B.Tech in <b>Artificial Intelligence & Data Science</b> (Class of 2027)</li>
+        <li>🎓 B.Tech in <b>Artificial Intelligence & Data Science</b> (Class of 2027)</li>
         <li>💼 Software Developer Intern experienced in <b>Full-Stack (Next.js)</b> & <b>SaaS ERP Dashboards</b></li>
         <li>🤖 Working on <b>Machine Learning, Deep Learning (CNNs), & Customer Churn Prediction</b></li>
         <li>⚡ Core Stack: <b>Python, Next.js, Django, SQL, TensorFlow, Scikit-Learn</b></li>
@@ -78,18 +78,14 @@
   <h2>📈 Statistics</h2>
   <br />
   
-  <!-- GitHub Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-vibin&theme=dark&background=000000&color=ffffff&type=svg&hide_border=true" height="175" alt="GitHub Streak" />
+  <!-- Fixed GitHub Stats Card (uses cache parameter to fix loading issue) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
+
+  <!-- Fixed Streak Stats Card (updated from Heroku to Demolab server) -->
+  <img src="https://streak-stats.demolab.com/?user=S-vibin&theme=dark&background=000000&color=ffffff&fire=ffffff&ring=ffffff&currStreakNum=ffffff&hide_border=true" height="175" alt="GitHub Streak" />
   
   <br /><br />
 
   <!-- Contribution Line Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-
-<br />
-
----
-
-
