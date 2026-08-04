@@ -78,10 +78,10 @@
   <h2>📈 Statistics</h2>
   <br />
   
-  <!-- Fixed GitHub Stats Card (uses cache parameter to fix loading issue) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
+  <!-- Fixed GitHub Stats Card with cache buster -->
+  <img src="https://github-readme-stats.vercel.app/api?username=S-vibin&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&v=2" height="175" alt="GitHub Stats" />
 
-  <!-- Fixed Streak Stats Card (updated from Heroku to Demolab server) -->
+  <!-- Fixed Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=S-vibin&theme=dark&background=000000&color=ffffff&fire=ffffff&ring=ffffff&currStreakNum=ffffff&hide_border=true" height="175" alt="GitHub Streak" />
   
   <br /><br />
