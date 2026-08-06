@@ -1,6 +1,6 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" alt="Welcome Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="Welcome Banner" width="100%" />
 </div>
 
 <br />
