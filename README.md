@@ -1,5 +1,6 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
+  <h1 style="margin-bottom: 12px; color: #ffffff; text-shadow: 2px 2px 6px rgba(0,0,0,0.7);">Hi — I'm Vibin · AI & Full‑Stack Developer</h1>
   <img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" alt="Welcome Banner" width="100%" />
 </div>
 
@@ -88,7 +89,7 @@
   
 
   <!-- Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" /[...]>
   <br></br>
 </div>
 <hr />
