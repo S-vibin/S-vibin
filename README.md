@@ -1,7 +1,7 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center" style="position: relative;">
   <img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" alt="Welcome Banner" style="width:100%; display:block;" />
-  <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); margin:0; font-size:clamp(1.5rem,4vw,3rem); color:#ffffff; text-shadow: 2px 2px 8px rgba(0,0,0,0.75);">welcome to my [...]</h1>
+ 
 </div>
 
 <br />
@@ -69,8 +69,8 @@
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+ <!-- <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> -->
 </div>
 
 <br />
