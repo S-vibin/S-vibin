@@ -1,7 +1,7 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center" style="position: relative;">
   <img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" alt="Welcome Banner" style="width:100%; display:block;" />
-  <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); margin:0; font-size:clamp(1.5rem,4vw,3rem); color:#ffffff; text-shadow: 2px 2px 8px rgba(0,0,0,0.75);">welcome to my world</h1>
+  <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); margin:0; font-size:clamp(1.5rem,4vw,3rem); color:#ffffff; text-shadow: 2px 2px 8px rgba(0,0,0,0.75);">welcome to my [...]</h1>
 </div>
 
 <br />
@@ -10,6 +10,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/vibins-vibs10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/S-vibin/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://github.com/S-vibin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -89,7 +92,7 @@
   
 
   <!-- Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" /[...]
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   <br></br>
 </div>
 <hr />
