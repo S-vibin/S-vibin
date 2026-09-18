@@ -1,0 +1,92 @@
+name: 🎵 Daily Music Drop
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  music-drop:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate daily music drop
+        run: |
+          mkdir -p music-drops
+
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+
+          SONGS=(
+            "Midnight Drive"
+            "Neon Dreams"
+            "Digital Rain"
+            "Lost in Code"
+            "Night Runner"
+            "Electric Soul"
+            "Zero Gravity"
+            "After Hours"
+            "Pixel Hearts"
+            "Silent Echo"
+            "Cyber Sunset"
+            "Moonlight"
+            "Dream Sequence"
+            "Late Night Debug"
+            "Ocean Lights"
+          )
+
+          GENRES=(
+            "Lo-Fi"
+            "Synthwave"
+            "Chill"
+            "Electronic"
+            "Ambient"
+            "Hip-Hop"
+            "Future Bass"
+          )
+
+          SONG=${SONGS[$RANDOM % ${#SONGS[@]}]}
+          GENRE=${GENRES[$RANDOM % ${#GENRES[@]}]}
+
+          FILE="music-drops/$DATE.md"
+
+          cat > "$FILE" << EOF
+          # 🎵 Daily Music Drop
+
+          **Date:** $DATE  
+          **Time:** $TIME  
+
+          ## 🎧 $SONG
+
+          **Genre:** $GENRE
+
+          > Code. Learn. Build. Repeat. 🎶
+
+          ---
+          
+          *Daily music drop generated automatically.*
+          EOF
+
+      - name: Update music playlist
+        run: |
+          echo "## 🎵 Latest Music Drop" > music-drops/latest.md
+          echo "" >> music-drops/latest.md
+          cat $(ls music-drops/*.md | grep -v latest.md | tail -1) >> music-drops/latest.md
+
+      - name: Commit daily drop
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add music-drops/
+
+          git diff --cached --quiet || \
+          git commit -m "🎵 Daily Music Drop"
+
+          git push
