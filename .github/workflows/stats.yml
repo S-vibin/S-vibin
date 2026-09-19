@@ -2,7 +2,6 @@ name: Update GitHub Stats
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 3 * * *"
 
@@ -18,10 +17,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=S-vibin&show_icons=true&theme=dark&hide_border=true
+          options: "username=S-vibin&show_icons=true&theme=dark&hide_border=true"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
