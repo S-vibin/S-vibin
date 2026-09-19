@@ -91,10 +91,23 @@
   <br /><br />
   
 
-  <!-- Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-vibin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  <br></br>
+  <!-- ==================== ACTIVITY GRAPH ==================== -->
+
+<div align="center">
+
+  <h2>📊 My GitHub Activity</h2>
+
+  <br />
+
+  <img
+    src="https://raw.githubusercontent.com/S-vibin/S-vibin/output/activity-graph.svg"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+
 </div>
+
+<br />
 <hr />
 
 <!-- ==================== End Banner ==================== -->
